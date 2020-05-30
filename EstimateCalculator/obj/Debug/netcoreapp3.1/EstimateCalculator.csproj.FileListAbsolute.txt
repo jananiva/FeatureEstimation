@@ -1,0 +1,13 @@
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.exe
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.deps.json
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.runtimeconfig.json
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.runtimeconfig.dev.json
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.dll
+C:\EstimateCalculator\EstimateCalculator\bin\Debug\netcoreapp3.1\EstimateCalculator.pdb
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.csprojAssemblyReference.cache
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.csproj.CoreCompileInputs.cache
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.AssemblyInfoInputs.cache
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.AssemblyInfo.cs
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.dll
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.pdb
+C:\EstimateCalculator\EstimateCalculator\obj\Debug\netcoreapp3.1\EstimateCalculator.genruntimeconfig.cache
